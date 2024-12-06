@@ -1,0 +1,2 @@
+plot(filtered_data$`NUMBER OF PEDESTRIANS INJURED`, filtered_data$`NUMBER OF PEDESTRIANS KILLED`, xlab = "Pedestrians Injured", ylab = "Pedestrians Killed")
+cor(filtered_data$`NUMBER OF PEDESTRIANS INJURED`, filtered_data$`NUMBER OF PEDESTRIANS KILLED`)
